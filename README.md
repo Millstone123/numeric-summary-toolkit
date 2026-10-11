@@ -11,7 +11,7 @@ Set up the repository and run its complete local verification workflow:
 make setup
 ```
 
-The setup workflow calculates the current dataset summary, writes
+Run `make setup` before summarizing. The setup workflow calculates the current dataset summary, writes
 `data/summary.html`, performs the documented local numeric reference check, and runs the
 standard-library tests. The workflow is intentionally self-contained and keeps
 all generated output under `data/`.
