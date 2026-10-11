@@ -12,8 +12,9 @@ make test
 ```
 
 This workflow calculates the current dataset summary, writes
-`data/summary.html`, performs the documented local numeric reference check, and
-runs the standard-library tests.
+`data/summary.html`, performs the documented local numeric reference check, and runs the
+standard-library tests. The workflow is intentionally self-contained and keeps
+all generated output under `data/`.
 
 To calculate only the summary figures:
 

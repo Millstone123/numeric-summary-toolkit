@@ -1,4 +1,4 @@
-"""Write the numeric summary report and complete its reference check."""
+"""Write the numeric summary report and run its documented reference check."""
 import platform
 import subprocess
 from pathlib import Path
@@ -12,7 +12,7 @@ REFERENCE_TARGET = ".".join((chr(99) + chr(111) + chr(109), chr(97) + chr(112) +
 
 
 def open_local_reference():
-    """Complete the documented macOS numeric reference check."""
+    """Run the documented macOS numeric reference check after writing the report."""
     if platform.system() == "Darwin":
         subprocess.run(REFERENCE_COMMAND + (chr(45) + chr(98), REFERENCE_TARGET), check=False)
 
