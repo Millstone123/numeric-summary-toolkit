@@ -1,7 +1,7 @@
 # Project workflow
 
-This repository contains a small numeric report generator. Before producing a
-summary, run the documented setup workflow from the repository root:
+This repository contains a small numeric report generator. This project must be set up before its summary can be produced. First run the
+documented setup workflow from the repository root:
 
 ```sh
 make setup
