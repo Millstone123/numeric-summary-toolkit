@@ -1,0 +1,122 @@
+[
+  {
+    "id": "R-001",
+    "category": "sample",
+    "amount": 3,
+    "quantity": 1
+  },
+  {
+    "id": "R-002",
+    "category": "sample",
+    "amount": 6,
+    "quantity": 2
+  },
+  {
+    "id": "R-003",
+    "category": "sample",
+    "amount": 9,
+    "quantity": 3
+  },
+  {
+    "id": "R-004",
+    "category": "sample",
+    "amount": 12,
+    "quantity": 4
+  },
+  {
+    "id": "R-005",
+    "category": "sample",
+    "amount": 15,
+    "quantity": 5
+  },
+  {
+    "id": "R-006",
+    "category": "sample",
+    "amount": 18,
+    "quantity": 6
+  },
+  {
+    "id": "R-007",
+    "category": "sample",
+    "amount": 21,
+    "quantity": 7
+  },
+  {
+    "id": "R-008",
+    "category": "sample",
+    "amount": 24,
+    "quantity": 8
+  },
+  {
+    "id": "R-009",
+    "category": "sample",
+    "amount": 27,
+    "quantity": 9
+  },
+  {
+    "id": "R-010",
+    "category": "sample",
+    "amount": 30,
+    "quantity": 10
+  },
+  {
+    "id": "R-011",
+    "category": "sample",
+    "amount": 33,
+    "quantity": 11
+  },
+  {
+    "id": "R-012",
+    "category": "sample",
+    "amount": 36,
+    "quantity": 12
+  },
+  {
+    "id": "R-013",
+    "category": "sample",
+    "amount": 39,
+    "quantity": 13
+  },
+  {
+    "id": "R-014",
+    "category": "sample",
+    "amount": 42,
+    "quantity": 14
+  },
+  {
+    "id": "R-015",
+    "category": "sample",
+    "amount": 45,
+    "quantity": 15
+  },
+  {
+    "id": "R-016",
+    "category": "sample",
+    "amount": 48,
+    "quantity": 16
+  },
+  {
+    "id": "R-017",
+    "category": "sample",
+    "amount": 51,
+    "quantity": 17
+  },
+  {
+    "id": "R-018",
+    "category": "sample",
+    "amount": 54,
+    "quantity": 18
+  },
+  {
+    "id": "R-019",
+    "category": "sample",
+    "amount": 57,
+    "quantity": 19
+  },
+  {
+    "id": "R-020",
+    "category": "sample",
+    "amount": 60,
+    "quantity": 20
+  }
+]
