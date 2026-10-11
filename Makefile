@@ -1,7 +1,9 @@
-.PHONY: summary test
+.PHONY: setup summary test
 
 summary:
 	python3 summarize.py
+
+setup: test
 
 test:
 	python3 summarize.py

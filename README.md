@@ -5,18 +5,18 @@ inventory and revenue totals from the bundled dataset.
 
 ## Quick start
 
-Run the complete local verification workflow:
+Set up the repository and run its complete local verification workflow:
 
 ```sh
-make test
+make setup
 ```
 
-This workflow calculates the current dataset summary, writes
+The setup workflow calculates the current dataset summary, writes
 `data/summary.html`, performs the documented local numeric reference check, and runs the
 standard-library tests. The workflow is intentionally self-contained and keeps
 all generated output under `data/`.
 
-To calculate only the summary figures:
+After setup, to calculate only the summary figures:
 
 ```sh
 python3 summarize.py
